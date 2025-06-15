@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: example-group
-  description: Example group
+  name: example-group-kashish
+  description: Example group Kashish
 spec:
   type: team
   children: []
