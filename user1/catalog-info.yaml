@@ -6,4 +6,4 @@ spec:
   profile:
     displayName: Jenny Doe
     email: jenny-doe@example.com
-  memberOf: [example-group-2]
+  memberOf: []
