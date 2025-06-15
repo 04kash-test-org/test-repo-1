@@ -33,6 +33,16 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
+  name: example-adp-1
+  description: Professional-grade Computer perfect for faraway training and recreational use
+spec:
+  owner: team-a
+  type: library
+  lifecycle: experimental
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
   name: example-scsi-5
   description: Introducing the Timor-Leste-inspired Ball, blending official style with local craftsmanship
 spec:
