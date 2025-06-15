@@ -13,16 +13,6 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example-ip-2
-  description: Introducing the Norfolk Island-inspired Pizza, blending sore style with local craftsmanship
-spec:
-  owner: team-a
-  type: service
-  lifecycle: experimental
----
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
   name: example-rss-3
   description: New Keyboard model with 16 GB RAM, 372 GB storage, and aggressive features
 spec:
