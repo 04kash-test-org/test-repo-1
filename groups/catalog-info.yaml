@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: example-group-2
+  description: Example group 2
+spec:
+  type: team
+  children: []
