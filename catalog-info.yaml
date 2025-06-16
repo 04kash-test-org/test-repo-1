@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example-smtp-2
+  name: example-smtp-1
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 spec:
   owner: team-a
