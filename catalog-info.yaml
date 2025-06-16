@@ -1,8 +1,9 @@
 apiVersion: backstage.io/v1alpha1
-kind: Group
+kind: Component
 metadata:
-  name: example-group
-  description: Example group
+  name: example-smtp-2
+  description: Our deer-friendly Ball ensures regular comfort for your pets
 spec:
-  type: team
-  children: []
+  owner: team-a
+  type: website
+  lifecycle: experimental
