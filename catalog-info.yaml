@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: example-adp-1
-  description: Professional-grade Computer perfect for faraway training and recreational use by Kashish
+  description: Professional-grade Computer perfect for faraway training and recreational use by Kashish (Edited)
 spec:
   owner: team-a
   type: library
