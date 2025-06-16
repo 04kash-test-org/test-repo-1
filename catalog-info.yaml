@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: example-smtp-2
-  description: Our deer-friendly Ball ensures regular comfort for your pets
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 spec:
   owner: team-a
   type: website
