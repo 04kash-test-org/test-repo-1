@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example-smtp-2
-  description: Our deer-friendly Ball ensures regular comfort for your pets
+  name: example-smtp-kash
+  description: Our deer-friendly Ball ensures regular comfort for your pets (Kash!!)
 spec:
   owner: team-a
   type: website
