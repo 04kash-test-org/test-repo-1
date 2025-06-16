@@ -1,8 +1,0 @@
-apiVersion: backstage.io/v1alpha1
-kind: Group
-metadata:
-  name: team-b-test
-  description: Team B Test
-spec:
-  type: team
-  children: []
