@@ -39,13 +39,3 @@ spec:
   owner: team-a
   type: service
   lifecycle: experimental
----
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: example-agp-5
-  description: Ergonomic Chair made with Gold for all-day extra-large support
-spec:
-  owner: team-a
-  type: library
-  lifecycle: experimental
