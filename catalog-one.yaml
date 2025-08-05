@@ -1,0 +1,51 @@
+# This file contains 5 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-sql-1
+  description: Featuring Terbium-enhanced technology, our Car offers unparalleled optimal performance
+spec:
+  owner: team-a
+  type: service
+  lifecycle: experimental
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-adp-2
+  description: The Customer-focused asymmetric portal Car offers reliable performance and superb design
+spec:
+  owner: team-a
+  type: website
+  lifecycle: experimental
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-sql-3
+  description: Gorgeous Sausages designed with Silk for sparkling performance
+spec:
+  owner: team-a
+  type: library
+  lifecycle: experimental
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-rss-4
+  description: Stylish Car designed to make you stand out with queasy looks
+spec:
+  owner: team-a
+  type: service
+  lifecycle: experimental
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-agp-5
+  description: Ergonomic Chair made with Gold for all-day extra-large support
+spec:
+  owner: team-a
+  type: library
+  lifecycle: experimental
