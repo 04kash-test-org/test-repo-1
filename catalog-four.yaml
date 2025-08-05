@@ -1,0 +1,11 @@
+# This file contains 1 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-com-1
+  description: New Shirt model with 92 GB RAM, 550 GB storage, and impure features
+spec:
+  owner: team-a
+  type: service
+  lifecycle: experimental
