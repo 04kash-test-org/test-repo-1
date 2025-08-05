@@ -1,0 +1,11 @@
+# This file contains 1 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-vga-1
+  description: Introducing the Samoa-inspired Salad, blending bruised style with local craftsmanship
+spec:
+  owner: team-a
+  type: website
+  lifecycle: experimental
