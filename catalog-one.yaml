@@ -1,9 +1,0 @@
-# This file contains 1 Backstage Resource entities
-
-apiVersion: backstage.io/v1alpha1
-kind: Resource
-metadata:
-  name: example-ssl-1
-  description: Strosin LLC's most advanced Tuna technology increases far-off capabilities
-spec:
-  owner: team-platform
