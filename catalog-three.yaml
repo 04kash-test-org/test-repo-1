@@ -1,0 +1,21 @@
+# This file contains 2 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-dns-1
+  description: Discover the married new Tuna with an exciting mix of Granite ingredients
+spec:
+  owner: team-a
+  type: library
+  lifecycle: experimental
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-smtp-2
+  description: Discover the blushing new Pants with an exciting mix of Ceramic ingredients
+spec:
+  owner: team-a
+  type: library
+  lifecycle: experimental
