@@ -1,0 +1,11 @@
+# This file contains 1 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-sas-1
+  description: The Faustino Pizza is the latest in a series of negative products from Bergnaum Inc
+spec:
+  owner: team-a
+  type: website
+  lifecycle: experimental
