@@ -1,0 +1,11 @@
+# This file contains 1 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-ftp-1
+  description: Discover the graceful new Shirt with an exciting mix of Aluminum ingredients
+spec:
+  owner: team-a
+  type: service
+  lifecycle: experimental
