@@ -1,0 +1,11 @@
+# This file contains 1 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-sdd-1
+  description: Experience the lime brilliance of our Cheese, perfect for fair environments
+spec:
+  owner: team-a
+  type: library
+  lifecycle: experimental
