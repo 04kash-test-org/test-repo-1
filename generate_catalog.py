@@ -1,8 +1,8 @@
 import os
 
-start_file_num = 59
-total_files = 50
-start_name_num = 55  # first name_num value
+start_file_num = 139
+total_files = 20
+start_name_num = 135  # first name_num value
 
 for i in range(total_files):
     file_num = start_file_num + i
