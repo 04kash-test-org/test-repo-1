@@ -1,0 +1,11 @@
+# This file contains 1 Backstage Component entities
+
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example-ib-630
+  description: Our squirrel-friendly Gloves ensures grandiose comfort for your pets 630
+spec:
+  owner: team-a
+  type: service
+  lifecycle: experimental
