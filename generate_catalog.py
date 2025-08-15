@@ -1,7 +1,7 @@
 import os
 
 start_file_num = 159
-total_files = 1
+total_files = 30
 start_name_num = 155  # first name_num value
 
 for i in range(total_files):
