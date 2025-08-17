@@ -4,7 +4,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: example-ib-122
-  description: Our squirrel-friendly Gloves ensures grandiose comfort for your pets 122
+  description: Updated description for catalog-126
 spec:
   owner: team-a
   type: service
