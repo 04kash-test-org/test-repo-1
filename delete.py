@@ -1,6 +1,6 @@
 import os
 
-start_file_num = 10
+start_file_num = 920
 total_files = 50
 
 deleted_count = 0
